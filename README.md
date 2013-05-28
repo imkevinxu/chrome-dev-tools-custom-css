@@ -19,3 +19,7 @@ Place Custom.css in the folder:
 ### Linux Location
 
     ~/.config/google-chrome/Default/User StyleSheets/
+
+## Preview
+
+![Custom CSS for Chrome Dev Tools](preview.png "Custom CSS for Chrome Dev Tools")
