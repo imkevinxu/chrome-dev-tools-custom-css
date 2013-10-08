@@ -4,6 +4,8 @@ Surprise web developers! Chrome Dev Tools can be customized with a custom user s
 
 This version has been updated for Chrome Version 27.0.1453.93
 
+UPDATE (10/7/13): I think this has broken in Chrome Version 30.0.1599.69 and I'm not sure why...
+
 ## Installation
 
 Place Custom.css in the folder:
